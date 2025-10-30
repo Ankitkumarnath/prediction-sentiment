@@ -1,0 +1,20 @@
+{
+  "total_records": 4993,
+  "sentiment_distribution": {
+    "positive": 2517,
+    "negative": 2476
+  },
+  "source_distribution": {
+    "twitter": 872,
+    "survey": 848,
+    "facebook": 835,
+    "chat": 828,
+    "app_review": 827,
+    "email": 783
+  },
+  "avg_rating": 3.003204486280793,
+  "date_range": {
+    "start": "2025-05-03 19:23:28.649893",
+    "end": "2025-10-30 19:23:28.649893"
+  }
+}
