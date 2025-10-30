@@ -1,0 +1,43 @@
+============================================================
+CUSTOMER FEEDBACK SUMMARY REPORT
+============================================================
+
+1. OVERALL SUMMARY
+------------------------------------------------------------
+
+Short Summary:
+this was a terrible main event just like every match Luger is in is terrible. other matches on the card were Razor Ramon vs Ted Dibiase, Steiner Brothers vs Heavenly Bodies,
+
+Detailed Summary:
+this was a terrible main event just like every match Luger is in is terrible. other matches on the card were Razor Ramon vs Ted Dibiase, Steiner Brothers vs Heavenly Bodies, Shawn Michaels vs Curt Hening. yokozuna defended the world title against Lex Luger.
+
+
+2. SENTIMENT-BASED SUMMARIES
+------------------------------------------------------------
+
+POSITIVE Feedback:
+Short: this was a terrible main event just like every match Luger is in is terrible. other matches on the card were Razor Ramon vs Ted Dibiase, Steiner Brothers vs Heavenly Bodies,
+Detailed: this was a terrible main event just like every match Luger is in is terrible. other matches on the card were Razor Ramon vs Ted Dibiase, Steiner Brothers vs Heavenly Bodies, Shawn Michaels vs Curt Hening. yokozuna defended the world title against Lex Luger.
+
+NEGATIVE Feedback:
+Short: Steven Seagal is trying to move back towards the type of characters he portrayed in his more popular movies. a few moments in the film made me laugh, and it's due almost entirely to him being given the w
+Detailed: Steven Seagal is trying to move back towards the type of characters he portrayed in his more popular movies. a few moments in the film made me laugh, and it's due almost entirely to him being given the wiggle-room to do his thing. the film begins with a widower with three girls who is being considered for a nationally syndicated advice column.
+
+
+3. PRODUCT-BASED SUMMARIES
+------------------------------------------------------------
+
+ENTERTAINMENT:
+Short: this was a terrible main event just like every match Luger is in is terrible. other matches on the card were Razor Ramon vs Ted Dibiase, Steiner Brothers vs Heavenly Bodies,
+
+STREAMING:
+Short: "Female Trouble" is about Babs Johnson, who lives in a trailer in Maryland. the film has a soundtrack from 60's rock and roll artists. it was released originally as a soft "X"
+
+CINEMA:
+Short: "Tommy Boy" rides on the chemistry between the two SNL stars. the movie rides on the chemistry between the two real-life best friends. it's the big, dumb guy versus the smart little
+
+FILM:
+Short: "favela Rising" is an entertaining, interesting, emotional, aesthetically beautiful film. it shows through beautiful color and moving music how one man and his dedicated friends choose not to accept that world and change it through action and art
+
+MOVIE:
+Short: the show ended off with an unpleasant sense of a "competition" between Fermilab and CERN. the show ended with an unpleasant sense of a "competition" between Fermilab and CERN.
